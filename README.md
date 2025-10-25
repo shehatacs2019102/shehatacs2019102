@@ -11,9 +11,9 @@ I am a Computer science graduate who fell in love with coding at a young age
 
 ## 💡 Engaging Quote
  
-> "I am not a product of my circumstances. I am a product of my decisions."
+> "Programming isn't about what you know; it's about what you can figure out." 
 >
-> — _Stephen Covey_
+> — _Chris Pine_
  
 <br>
  
