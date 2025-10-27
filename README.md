@@ -5,12 +5,10 @@
  
 </div>
  
-## 💫 About Me
+## About Me
   
 I am a Computer science graduate who fell in love with coding at a young age
 
-## 💡 Engaging Quote
- 
 > "Programming isn't about what you know; it's about what you can figure out." 
 >
 > — _Chris Pine_
@@ -39,9 +37,6 @@ I am a Computer science graduate who fell in love with coding at a young age
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehatacs2019102&layout=compact&langs_count=8&theme=tokyonight" alt="shehatacs2019102's Top Languages" />
 </p>
  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shehatacs2019102&theme=radical&no-frame=true&margin-w=10&title=MultiLanguage,Experience,Commits,Repositories&row=1" alt="shehatacs2019102's Trophies" />
-</p>
  
 <br>
  
