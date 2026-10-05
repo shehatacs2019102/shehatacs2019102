@@ -11,7 +11,7 @@ I am a Computer science graduate who fell in love with coding at a young age
 
 > "Programming isn't about what you know; it's about what you can figure out." 
 >
-> — _Chris Pine_
+> —DHH
  
 <br>
  
